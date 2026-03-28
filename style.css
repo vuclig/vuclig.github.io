@@ -10,7 +10,7 @@ body {
     font-weight: bold;
     line-height: 2mm;
     margin: 0;
-    background-image: url("vuclig/vuclig.github.io/images/dunapart3.jpg");
+    background-image: url("/images/dunapart3.jpg");
     background-repeat: repeat-y;
     background-position: center bottom;
 
