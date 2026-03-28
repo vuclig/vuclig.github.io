@@ -10,5 +10,8 @@ body {
     font-weight: bold;
     line-height: 1.9mm;
     margin: 0;
-    background-image: ("../images/dinapart3.jpg");
+    background-image: url ("../images/dinapart3.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+
 }
