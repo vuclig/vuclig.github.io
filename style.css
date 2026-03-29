@@ -27,3 +27,9 @@ body {
 a :hover{
     color:red
 }
+
+.celunk {
+    background-color: black;
+    color: white;
+    border: 3px red solid;
+}
