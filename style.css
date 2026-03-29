@@ -29,6 +29,7 @@ a :hover{
 }
 
 .celunk {
+    margin: 5px;
     background-color: black;
     color: white;
     border: 3px red solid;
