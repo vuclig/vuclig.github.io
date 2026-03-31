@@ -13,6 +13,7 @@ body {
     /*background-image: url("/images/dunapart3.jpg");
     background-repeat: repeat-y;
     background-position: center bottom;*/
+    position: relative;
 
 }
 
@@ -39,4 +40,10 @@ a :hover{
     width: 240px;       /* méret */
     margin: 10px;       /* térköz */
     border-radius: 10px; /* lekerekítés */
+}
+
+.datum {
+    position: fixed;
+    top: 0;
+    right: 0;
 }
