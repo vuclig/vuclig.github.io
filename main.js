@@ -4,5 +4,7 @@ console.error('Szerintem nem szavaztál a Dunára...');
 console.warn('Szavazz a dunára!');
 let szoveg = 'Heló Ez baj';
 
-let datum = Date
-document.getElementById("date").innerText = datum;
+setInterval(() => {
+    const most = new Date();
+    document.getElementById("date").innerText = most.toLocaleTimeString();
+}, 1000);
