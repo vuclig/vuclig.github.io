@@ -47,6 +47,12 @@ a :hover {
     margin: auto;
 }
 
+.szoveg_desi1 iframe {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
 .plakatok img {
     width: 240px;
     /* méret */
